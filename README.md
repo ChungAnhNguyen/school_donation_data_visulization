@@ -53,5 +53,5 @@ To contribute to this project, see the GitHub documentation on **[creating a pul
 Give a ⭐️ if you like this project!
 ___________________________________
 
-<p>&copy; 2021 Leah Nguyen</p>
+<p>&copy; 2022 Nguyen Chung Anh</p>
 
